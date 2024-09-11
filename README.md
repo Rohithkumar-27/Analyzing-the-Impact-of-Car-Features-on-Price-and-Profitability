@@ -1,1 +1,3 @@
 # Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability
+This project involved analyzing the relationship between various car features, such as engine power, fuel efficiency, and price. I created an interactive dashboard using Excel that allowed users to explore how different car features impacted their market value. Key tasks included creating scatter plots, regression models, and pivot tables to visualize trends and relationships between variables like horsepower, MPG, and MSRP. This analysis provided valuable insights for optimizing pricing strategies and enhancing profitability by identifying the most influential car features. The dashboard enabled stakeholders to make data-driven decisions regarding product development and marketing strategies.
+
